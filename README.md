@@ -1,4 +1,4 @@
-# 6GuysWonArena
+# 6Guys1Arena
 
 A wave-based game with inspiration taken from ROTMG, Terraria, and COD zombies. More to come soon.
 
